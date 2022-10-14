@@ -1,3 +1,4 @@
+const mySecret = process.env[PRIVATE_KEY]
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
